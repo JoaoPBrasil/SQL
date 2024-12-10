@@ -4,7 +4,7 @@ FROM Tabela1;
 SELECT DISTINCT FirstName
 FROM person.Person;
 
-//Desafio:
+---Desafio:
 
 SELECT DISTINCT LastName
 FROM person.Person;
