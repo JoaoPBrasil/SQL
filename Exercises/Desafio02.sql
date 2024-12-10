@@ -8,3 +8,8 @@ FROM person.Person;
 
 SELECT Title
 FROM person.Person;
+
+---Desafio:
+
+SELECT FirstName,LastName
+FROM person.Person;
